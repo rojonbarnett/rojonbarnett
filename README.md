@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ![image](https://github.com/rojonbarnett/rojonbarnett/assets/77937166/5e81995a-ea70-4927-a905-0bcfe851b04a) About Me:
 Recently developed a Java -based Uno Game on a team in my CS capstone course.<br>Looking to enhance my dev. and research skills as an intern or junior programmer<br>Improving my Javascript and Css skills<br>Ask me about my Adversarial Machine Learning Research<br>I run about an hour daily and lift weights, because a strong body = a strong mind
 
 
