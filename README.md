@@ -14,7 +14,7 @@ I run about an hour daily and lift weights, because a strong body = a strong min
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rojonbarnett&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rojonbarnett&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rojonbarnett&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rojonbarnett&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
