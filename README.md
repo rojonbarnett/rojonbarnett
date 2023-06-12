@@ -1,4 +1,4 @@
-# <img src="https://github.com/rojonbarnett/rojonbarnett/assets/77937166/5e81995a-ea70-4927-a905-0bcfe851b04a" width="50" height="50" alt="image" />  About Me:
+# <img src="https://github.com/rojonbarnett/rojonbarnett/assets/77937166/5e81995a-ea70-4927-a905-0bcfe851b04a" width="50" height="50" alt="image" /> Software Developer and Computer Science    Researcher:
 
 !🎮Recently developed a Java -based Uno Game on a team in my CS capstone course.<br>!
 🔬Looking to enhance my dev. and research skills as an intern or junior programmer<br>!⚙️Improving my Javascript and Css skills<br> ! <img src="https://github.com/rojonbarnett/rojonbarnett/assets/77937166/bdea7b14-9d28-4faf-8903-5bc75a7d264c" width = "15" height = "15" alt = "image" />
