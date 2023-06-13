@@ -3,7 +3,7 @@
 !🎮Recently developed a Java -based Uno Game on a team in my CS capstone course.<br>!
 🔬Looking to enhance my dev. and research skills as an intern or junior programmer<br>!⚙️Improving my Javascript and Css skills<br> ! <img src="https://github.com/rojonbarnett/rojonbarnett/assets/77937166/bdea7b14-9d28-4faf-8903-5bc75a7d264c" width = "15" height = "15" alt = "image" />
 Ask me about my Adversarial Machine Learning Research<br>! <img src = "https://github.com/rojonbarnett/rojonbarnett/assets/77937166/a88843da-f58b-4d9d-aad1-b0d76fcb8520" width = "15" height = "15" alt = image />
-I run about an hour daily and lift weights, because a strong body = a strong mind
+I run about an hour daily and lift weights, because a strong body == a strong mind
 
 
 ## 🌐 Socials:
