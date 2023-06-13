@@ -24,7 +24,7 @@ I run about an hour daily and lift weights, because a strong body == a strong mi
 SQL Database Implementation
 
 [<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/NetflixWebsiteLogo.gif" alt = "Netflix Editor Website" width = "256"/>](https://github.com/rojonbarnett/Netflix-Editor-Website)<br/>
-SQL Database Implementation
+Netflix Editor Website
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rojonbarnett&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
