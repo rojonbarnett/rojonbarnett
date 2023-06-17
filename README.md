@@ -7,9 +7,16 @@ I run about an hour daily and lift weights, because a strong body == a strong mi
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RoJon#1435) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rojonbarnett) 
+<a href="https://discord.gg/RoJon#1435" title="Get my Discord">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord Badge">
+</a>
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/rojonbarnett" title="View my LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
 <a href="https://portfolium.com/RoJonBarnett">
-  <img src="https://github.com/rojonbarnett/rojonbarnett/blob/main/PortfoliumLogo.png" alt="Portfolium" width="100" height="100">
+  <img src="https://github.com/rojonbarnett/rojonbarnett/blob/main/PortfoliumLogo.png" alt="Portfolium" title = "View my Portfolium Portfolio" width="100" height="100">
 </a>
 
 
@@ -20,13 +27,13 @@ I run about an hour daily and lift weights, because a strong body == a strong mi
 ## Projects:
 [<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/UnoProjectPERFECT.gif" alt = "Uno Project" width = "256"/>](https://github.com/rojonbarnett/UnoAnywhere-VirtualUnoGame) <br/> Java-based Virtual Uno Game
 
-[<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/imdb%20logo.jpg" alt = "SQL IMDB Database" width = "256"/>](https://github.com/rojonbarnett/sqlDatabase) <br/>
+[<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/imdb%20logo.jpg" alt = "SQL IMDB Database" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/sqlDatabase) <br/>
 SQL Database Implementation
 
-[<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/NetflixWebsiteLogo.gif" alt = "Netflix Editor Website" width = "256"/>](https://github.com/rojonbarnett/Netflix-Editor-Website)<br/>
+[<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/NetflixWebsiteLogo.gif" alt = "Netflix Editor Website" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/Netflix-Editor-Website)<br/>
 Netflix Editor Website
 
-[<img src = "https://miro.medium.com/v2/resize:fit:1400/1*SB-Fu_AySBggAAxq0Q2Wew.gif" alt = "Tensor Flow Project" width = "256"/>](https://github.com/rojonbarnett/Adversarial-Perturbations-in-Python)<br/>
+[<img src = "https://miro.medium.com/v2/resize:fit:1400/1*SB-Fu_AySBggAAxq0Q2Wew.gif" alt = "Tensor Flow Project" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/Adversarial-Perturbations-in-Python)<br/>
 Adversarially Perturbing Images with Python
 
 # 📊 GitHub Stats:
