@@ -26,6 +26,9 @@ SQL Database Implementation
 [<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/NetflixWebsiteLogo.gif" alt = "Netflix Editor Website" width = "256"/>](https://github.com/rojonbarnett/Netflix-Editor-Website)<br/>
 Netflix Editor Website
 
+[<img src = "https://miro.medium.com/v2/resize:fit:1400/1*SB-Fu_AySBggAAxq0Q2Wew.gif" alt = "Tensor Flow Project" width = "256"/>](https://github.com/rojonbarnett/Adversarial-Perturbations-in-Python)<br/>
+Adversarially Perturbing Images with Python
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rojonbarnett&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rojonbarnett&theme=onedark&hide_border=false)<br/>
