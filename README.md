@@ -26,18 +26,18 @@ I run about an hour daily and lift weights, because a strong body == a strong mi
 
 ## Projects:
 [<img src = "Python-Pandas.gif" alt = "Pandas and SQL Project" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/Netflix-Data-Analysis-with-Pandas-and-SQL)<br/>
-Generating Netflix Insights with Python(Pandas|pymysql|Matplotlib) and SQl
+**Generating Netflix Insights with Python(Pandas|pymysql|Matplotlib) and SQL**
 
-[<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/UnoProjectPERFECT.gif" alt = "Uno Project" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/UnoAnywhere-VirtualUnoGame) <br/> Java-based Virtual Uno Game
+[<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/UnoProjectPERFECT.gif" alt = "Uno Project" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/UnoAnywhere-VirtualUnoGame) <br/> **Java-based Virtual Uno Game**
 
 [<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/imdb%20logo.jpg" alt = "SQL IMDB Database" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/sqlDatabase) <br/>
-SQL Database Implementation
+**SQL Database Implementation**
 
 [<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/NetflixWebsiteLogo.gif" alt = "Netflix Editor Website" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/Netflix-Editor-Website)<br/>
-Netflix Editor Website
+**Netflix Editor Website**
 
 [<img src = "https://miro.medium.com/v2/resize:fit:1400/1*SB-Fu_AySBggAAxq0Q2Wew.gif" alt = "Tensor Flow Project" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/Adversarial-Perturbations-in-Python)<br/>
-Adversarially Perturbing Images with Python
+**Adversarially Perturbing Images with Python**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rojonbarnett&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
