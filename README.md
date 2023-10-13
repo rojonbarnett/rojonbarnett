@@ -25,7 +25,7 @@ I run about an hour daily and lift weights, because a strong body == a strong mi
 
 ## Projects:
 [<img src = "Python-Pandas.gif" alt = "Pandas and SQL Project" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/Netflix-Data-Analysis-with-Pandas-and-SQL)<br/>
-**Generating Netflix Insights with Python(Pandas|pymysql|Matplotlib) and SQL**
+**Generating Netflix Insights with Python(Pandas|PyMySQL|Matplotlib) and SQL**
 
 [<img src = "https://github.com/rojonbarnett/rojonbarnett/blob/main/UnoProjectPERFECT.gif" alt = "Uno Project" title = "Go to this repository" width = "256"/>](https://github.com/rojonbarnett/UnoAnywhere-VirtualUnoGame) <br/> **Java-based Virtual Uno Game**
 
